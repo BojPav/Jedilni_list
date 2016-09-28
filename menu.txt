@@ -1,0 +1,5 @@
+FastFood 'BURGER Crew' - Jedilni list: 
+- Burger : 10 eur
+- Sendvic : 5 eur
+- Cheeseburger : 12 eur
+- Pizza : 8 eur
